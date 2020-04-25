@@ -1,12 +1,21 @@
 # 01 HTML CSS Git: Code Refactor
 
-One of the most common tasks for front-end and junior developers is to take existing code and refactor it to either meet a certain set of standards or implement a new technology. Web accessibility is an increasingly important consideration for businesses, ensuring that people with disabilities or socio-economic restrictions have access to their website, and helping them avoid litigation.
+I converted a number of div tags to Semantic HTML. These included: Header, Nav, Aside and Footer.
 
-Your task is to refactor an existing webpage to make it accessible. An important rule to follow when working with someone else's code is the Scout Rule:
+I reduced the amount of necessary CSS, reusing single section(s) of code rather than repeating identical effects through multiple class tags.
 
-> Always leave the code you are editing a little cleaner than you found it.
+I added alt-tags to images that will replace the images in cases where they won't display properly.
 
-To impress clients, you should always go the extra mile and improve their codebase for long term sustainability. Ensure that all links are functioning correctly and clean up the CSS to make it more efficient, consolidating CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page.
+I reordered the code so that it seems more intuitive (to me anyway), following the ordered flow of the page.
+
+I added a title element, which helps with seo and appears in the tab of the web browser.
+
+I eventually intend to switch the float elements out for flex box and add a CSS reset, but I lost time this week with computer problems and needed to move on.
+
+
+
+
+
 
 ## User Story
 

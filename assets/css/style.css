@@ -75,7 +75,6 @@ main {
     margin-left: 20px;
 }
 
-
 main section  {
     margin-bottom: 20px;
     padding: 50px;
@@ -87,6 +86,12 @@ main section  {
 
 main section img {
     max-height: 200px;
+    
+}
+
+main section h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
 }
 
 aside {
