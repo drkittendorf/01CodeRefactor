@@ -1,6 +1,6 @@
-# 01 HTML CSS Git: Code Refactor
+# Code Refactor
 
-- [CONTRIBUTOR(S)](#CONTRIBUTOR(s))
+- [CONTRIBUTOR(S)](#CONTRIBUTORS)
 - [USER STORY](#USER-STORY)
 - [DESCRIPTION](#DESCRIPTION)
 - [REFERENCE LINKS](#REFERENCE-LINKS)
@@ -9,7 +9,7 @@
 ---
 
 
-## CONTRIBUTOR(s)
+## CONTRIBUTORS
 Dale Kittendorf
 
 <br>
@@ -54,9 +54,9 @@ Added a title element, which helps with seo and appears in the tab of the web br
 
 ## REFERENCE LINKS
 
-* https://drkittendorf.github.io/01CodeRefactor/
+* https://drkittendorf.github.io/code-refactor/
 
-* https://github.com/drkittendorf/01CodeRefactor
+* https://github.com/drkittendorf/code-refactor/
 
 ---
 
